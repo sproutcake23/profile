@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 👨‍💻 All of my projects are available at my github
 
 - 💬 Ask me about **Python**
 
-- 📄 Know about my experiences [i have experience on using linux , and coding in python](i have experience on using linux , and coding in python)
+- 📄 Know about my experiences (i have experience on using linux , and coding in python)
 
 - ⚡ Fun fact **im lazy :P**
 
