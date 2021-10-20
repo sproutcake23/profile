@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+### Im known as TROOT
+### i love learning about technology
+### i code in python :D
 
 <!--
 **an7py4cfCf/an7py4cfCf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
