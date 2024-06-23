@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📄 Know about my experiences (i have experience on using linux , and coding in python)
-
-- ⚡ Fun fact **im lazy :P**
+- 📄 Know about my experiences (currently none actually)
 
 
 <h3 align="left">Languages and Tools:</h3>
