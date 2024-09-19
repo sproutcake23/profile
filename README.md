@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm TROOT</h1>
+<h1 align="center">Hi 👋, I'm Gishnu Gompa</h1>
 <h3 align="center">A passionate coder</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently doing projects in **Python** to get a good grasp
 
 - 👨‍💻 All of my projects are available at my github
 
